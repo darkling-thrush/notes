@@ -40,12 +40,11 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * wear a mismatch of silver and black armor, each adorned with Chains in various manors as if cobbled together themselves, using spears
 * bodies have chains, binding the souls to the bodies, break the chains and souls will pass to underworld
 * appeared recently, have been attacking villages and when they appeared the painting changed
-  * Why did they appear when they did? And, what is the purpose of their attacking villages? 
-* 
+  * TBD: Why did they appear when they did? And, what is the purpose of their attacking villages? 
 * when Andropeclis killed, everyone bursted in blue-black flame
 * leaders
   * Krykon - Orc (scar, clouded eye), had signet ring, given to Deypho for investigation
-    * "Thiovanya was right, the box and the pawns all in one area." => longest reigning Oracle of Thespoe (a 7 day walk from Baromenes), he's dead and is "buried" in the Xorinófot Mountains in between here and Thespoe
+    * _"Thiovanya was right, the box and the pawns all in one area."_ => Thiovanya was the longest reigning Oracle of Thespoe (a 7 day walk from Baromenes), he's dead and is "buried" in the Xorinófot Mountains in between here and Thespoe
   * Andropeclis - Human (sickly pale), had sliver of The Corruptor's heart and signet ring (with Lulani?)
     * Splinter was reunited with splinter from Deypho. As Lulani held it, she heard a voice: _It promised me power, when I asked what it was, it said it was no one, but I am someone important. It said it could help reach my goals, if only I submit to it, find it, and complete it. The voice was much clearer once the other sliver joined with it. It was a very tempting voice that sounded sweet and mysterious."_
 
@@ -54,23 +53,23 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * sent to deliver a parchment
     * "The Serene turns to Smolder and the World to ruin. It starts at the Akropoli when the moons overtake the sun."
       * both moons eclipse the sun only once about every 18 months, not sure exactly when, but this month
-
 * Deypho guided them past Akrópoli (where orators and the admiral decide on political matters) to a temple dedicated to a saint of Xoros
   * Xoros is the god of magic, the moon's creator, and many believe magic is at its strongest during an eclipse. He is the father of the magical leylines that snake around Olara and is the only reason magic is present in the mortal realm.
-  * TBD: is it odd that she didn't know when the eclipse is, given the god Xoros?
+  * TBD: is it odd that she didn't know when the eclipse is, given the god Xoros? And, why was she late?
   
-* Gives them a scroll/painting depicting a great battle between a shadowy figure wrapped in onyx chains that move from and about his body versus six heroes. Their battle dances across the parchment as if animated. The scroll shows the entire events of a war waged between the two groups until finally, the heroes manage to slay the shadowy figure and bring light to the realm. Under each hero, a name in gold glittered and shined, waving like banners in the wind. From left to right the names read as such: Dae, Mags, Damaia, Wilhelmina, Lulani...
-  * scroll wrote itself 5 years ago(?), Deypho brought it to the Oracle of Thespoe... then they tracked us down... to make sure this prophecy comes true.
-  * Serysh from Erenae, was a sixth name, he died "scrubbed his name from the strings of Fate"
-  * painting also changed when: the Shadowy One's army appeared... it changes whenever either side gets closer to reaching their goal
+* She gives them a scroll/painting depicting a _great battle between a shadowy figure wrapped in onyx chains that move from and about his body versus six heroes. Their battle dances across the parchment as if animated. The scroll shows the entire events of a war waged between the two groups until finally, the heroes manage to slay the shadowy figure and bring light to the realm. Under each hero, a name in gold glittered and shined, waving like banners in the wind. From left to right the names read as such: Dae, Mags, Damaia, Wilhelmina, Lulani..._
+  * scroll wrote itself 5 years ago(TBD?), Deypho brought it to the Oracle of Thespoe... then they tracked us down... to make sure this prophecy comes true.
+  * Serysh from Erenae, was the sixth name, when he died... _"scrubbed his name from the strings of Fate"_
+    * painting changed when he died and when the Shadowy One's army appeared... it changes whenever either side gets closer to reaching their goal
 
-* Tells us that the Chained Ones will be looking for us...
-* we are marked with bright yellow sigils (Mags: cat, Deypho: bird)
-* presents us with a splinter of wrought metal, about an inch long, jagged and shattered on either... deep black, begging to be picked up
+* Deypho reports that the Chained Ones will be looking for us...
+* we are marked with bright yellow sigils (Mags: cat, Deypho: bird, Dae: fox...) whenever we are together in numbers
+* She presents us with a splinter of wrought metal, about an inch long, jagged and shattered on either... deep black, begging to be picked up
   * It is a piece of an artifact **known to be able to control the will of others**
   * The Spear of Varaxis shattered a black wrought artifact in the Battle of Eternal Fires... which was the climactic conflict of the Corrupter versus Archon Thalysios. At the end of the battle, spears of light descended from Siopos and destroyed much of the enemy armour and its foul creatures.
+  * TBD: Where did she get the sliver from?
 
 **THEORY: The shards are pieces of The Corruptor's heart and they seek completion**
 
   ### The Corruptor
-  *  We can for more information in the great libraries in Anthropoi and the Oria in the Storm Quarter.
+  *  We can search for more information in the great libraries in Anthropoi and/or the Oria in the Storm Quarter.

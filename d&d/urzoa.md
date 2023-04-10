@@ -56,6 +56,7 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * Deypho guided them past Akrópoli (where orators and the admiral decide on political matters) to a temple dedicated to a saint of Xoros
   * Xoros is the god of magic, the moon's creator, and many believe magic is at its strongest during an eclipse. He is the father of the magical leylines that snake around Olara and is the only reason magic is present in the mortal realm.
   * TBD: is it odd that she didn't know when the eclipse is, given the god Xoros? And, why was she late?
+  * TBD: where did she get the sliver from?
   
 * She gives them a scroll/painting depicting a _great battle between a shadowy figure wrapped in onyx chains that move from and about his body versus six heroes. Their battle dances across the parchment as if animated. The scroll shows the entire events of a war waged between the two groups until finally, the heroes manage to slay the shadowy figure and bring light to the realm. Under each hero, a name in gold glittered and shined, waving like banners in the wind. From left to right the names read as such: Dae, Mags, Damaia, Wilhelmina, Lulani..._
   * scroll wrote itself 5 years ago(TBD?), Deypho brought it to the Oracle of Thespoe... then they tracked us down... to make sure this prophecy comes true.

@@ -45,6 +45,7 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * leaders
   * Krykon - Orc (scar, clouded eye), had signet ring, given to Deypho for investigation
     * _"Thiovanya was right, the box and the pawns all in one area."_ => Thiovanya was the longest reigning Oracle of Thespoe (a 7 day walk from Baromenes), he's dead and is "buried" in the Xorinófot Mountains in between here and Thespoe
+    * _"Thiovanya's resting place was underneath the lone temple to Xoros at the top of the mountain. It was used as an observatory of sorts for some time before it was abandoned."_
   * Andropeclis - Human (sickly pale), had sliver of The Corruptor's heart and signet ring (with Lulani?)
     * Splinter was reunited with splinter from Deypho. As Lulani held it, she heard a voice: _It promised me power, when I asked what it was, it said it was no one, but I am someone important. It said it could help reach my goals, if only I submit to it, find it, and complete it. The voice was much clearer once the other sliver joined with it. It was a very tempting voice that sounded sweet and mysterious."_
 

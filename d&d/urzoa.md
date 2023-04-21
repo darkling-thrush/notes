@@ -26,6 +26,7 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 
 ### Met at fountain:
 * Mags & Clair
+  * TBD: Did he ever have visions of Serysh?
 * Billie & Valyv
 * Lulani
 * Damaia of Red Banners

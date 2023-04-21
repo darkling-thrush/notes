@@ -21,6 +21,9 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * controls many of the trade routes off the coast of the Serene Sea and into the Gilded Sea
 * patrol guards wear blue tunics accented with white strips of cloth and full sets of bronze armor, often depicting giant tentacles across the breastplate
 
+>Several cities of Halaea are connected via Arcane Gates used mostly by higher-ranked officials to travel to and from the other city-states. The Arcane gates are located on powerful leylines and are powered by those leylines. A major Ley Line runs through the center of Baromenes and through the middle of the Nasikloḯa. He's pretty sure the Gate in Baromenes is connected to Thespoe. If we could get connected with someone capable of granting us access to the Arcane Gate, we could get to Thespoe and back quite easily. 
+
+
 ### Met at fountain:
 * Mags & Clair
 * Billie & Valyv
@@ -49,6 +52,8 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
   * Andropeclis - Human (sickly pale), had sliver of The Corruptor's heart and signet ring (with Lulani?)
     * Splinter was reunited with splinter from Deypho. As Lulani held it, she heard a voice: _It promised me power, when I asked what it was, it said it was no one, but I am someone important. It said it could help reach my goals, if only I submit to it, find it, and complete it. The voice was much clearer once the other sliver joined with it. It was a very tempting voice that sounded sweet and mysterious."_
 
+**THEORY: they are the mercanaries who specialized in fighting the undead and were wiped out when betrayed by their leader.**
+
 ### Deypho
 * triton, a golden breastplate with the depictions of crossed tridents, lavender-colored strips of leather with gold trim, trident
 * sent to deliver a parchment
@@ -68,7 +73,7 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * we are marked with bright yellow sigils (Mags: cat, Deypho: bird, Dae: fox...) whenever we are together in numbers
 * She presents us with a splinter of wrought metal, about an inch long, jagged and shattered on either... deep black, begging to be picked up
   * It is a piece of an artifact **known to be able to control the will of others**
-  * The Spear of Varaxis shattered a black wrought artifact in the Battle of Eternal Fires... which was the climactic conflict of the Corrupter versus Archon Thalysios. At the end of the battle, spears of light descended from Siopos and destroyed much of the enemy armour and its foul creatures.
+  * The Spear of Varaxis shattered a black wrought artifact in the Battle of Eternal Fires... which was the climatic conflict of the Corrupter versus Archon Thalysios. At the end of the battle, spears of light descended from Siopos and destroyed much of the enemy armour and its foul creatures.
   * TBD: Where did she get the sliver from?
 
 **THEORY: The shards are pieces of The Corruptor's heart and they seek completion**

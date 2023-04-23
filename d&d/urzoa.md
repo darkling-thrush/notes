@@ -58,8 +58,8 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 ### Deypho
 * triton, a golden breastplate with the depictions of crossed tridents, lavender-colored strips of leather with gold trim, trident
 * sent to deliver a parchment
-    * "The Serene turns to Smolder and the World to ruin. It starts at the Akropoli when the moons overtake the sun."
-      * both moons eclipse the sun only once about every 18 months, not sure exactly when, but this month
+> The Serene turns to Smolder and the World to ruin. It starts at the Akropoli when the moons overtake the sun."
+* Both moons eclipse the sun only once about every 18 months, not sure exactly when, but this month
 * Deypho guided them past Akrópoli (where orators and the admiral decide on political matters) to a temple dedicated to a saint of Xoros
   * Xoros is the god of magic, the moon's creator, and many believe magic is at its strongest during an eclipse. He is the father of the magical leylines that snake around Olara and is the only reason magic is present in the mortal realm.
   * TBD: is it odd that she didn't know when the eclipse is, given the god Xoros? And, why was she late?
@@ -71,8 +71,8 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
     * painting changed when he died and when the Shadowy One's army appeared... it changes whenever either side gets closer to reaching their goal
 
 * Deypho reports that the Chained Ones will be looking for us...
-* we are marked with bright yellow sigils (Mags: cat, Deypho: bird, Dae: fox...) whenever we are together in numbers
-* She presents us with a splinter of wrought metal, about an inch long, jagged and shattered on either... deep black, begging to be picked up
+* We are marked with bright yellow sigils (Mags: cat, Deypho: bird, Dae: fox...) whenever we are together in numbers
+* She presents us with a splinter of wrought metal, about an inch long, jagged and shattered on either end... deep black, begging to be picked up
   * It is a piece of an artifact **known to be able to control the will of others**
   * The Spear of Varaxis shattered a black wrought artifact in the Battle of Eternal Fires... which was the climatic conflict of the Corrupter versus Archon Thalysios. At the end of the battle, spears of light descended from Siopos and destroyed much of the enemy armour and its foul creatures.
   * TBD: Where did she get the sliver from?
@@ -81,3 +81,22 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 
   ### The Corruptor
   *  We can search for more information in the great libraries in Anthropoi and/or the Oria in the Storm Quarter.
+
+### Oria
+
+#### Topics to research
+* The Corruptor (all we know is that he was male, dragonborn and had a faction called "The Ebony Legion")
+  * The Ebony Legion
+* The Battle of Eternal Fires... and what happened after it?
+  * Eg. Specifics on how The Corruptor was killed? What happened to the Corruptor's remains? What happened to the Spear of Varaxis?
+  * Also... what role did Siarus play in this battle? Did he help either side?
+* The Chained Ones
+  * Andropeclis (and maybe the orc, Krykon)
+  * Could they be the mercanaries who specialized in fighting the undead and were wiped out when betrayed by their leader... ? Who was that leader?
+* Thiovanya
+  * What kind of person he was in life, his prophecies, how he died, any connection to the mercenary group, etc.
+* Eclipses
+  * What's special about them (potential for "special" magical activity)?
+  * Do the magic leylines pass through the Akropoli in any special way?
+* General prophecies on any of the above?
+* Extra: Speak to someone "learned" who might know or be able to guide them to someone who will know when the next eclipse is exactly

@@ -100,3 +100,33 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
   * Do the magic leylines pass through the Akropoli in any special way?
 * General prophecies on any of the above?
 * Extra: Speak to someone "learned" who might know or be able to guide them to someone who will know when the next eclipse is exactly
+
+#### Findings
+
+(Dam) The Spear of Varaxis and the Battle of Eternal Fires
+
+> Legend has it that the Spear of Varaxis was crafted by the gods themselves, imbued with divine power to aid their champions in times of great need. The Archon Thalysios was said to have been chosen by the gods to wield the spear in the Battle of Eternal Fires, and it was his skill and courage that turned the tide of the battle.
+
+> As the Corruptor's armies approached the Siopós cliffs, Archon Thalysios and his warriors knew that the fate of their city and their people hung in the balance. They knew that they had to hold the pass and prevent the Corruptor from advancing any further.
+
+> For nearly a month, the two sides engaged in fierce combat, with neither gaining the upper hand. It seemed as though the battle would never end, and that the Corruptor's armies would eventually overwhelm the defenders.
+
+> Then, in a desperate move, the Corruptor summoned forth a massive beast from the underworld, hoping to use its power to break through the defenders' lines. The beast was a terrifying sight, with fiery eyes and massive claws that could crush a man's skull like an eggshell.
+
+> But Archon Thalysios was not afraid. He knew that he had been chosen by the gods to wield the Spear of Varaxis, and that it was his duty to use it to protect his people. With a fierce cry, he charged forward, the spear glowing with divine power in his hands.
+
+> The battle that followed was epic in its scope, with Thalysios and the Corruptor engaging in a one-on-one duel that would decide the fate of the land. The two combatants were evenly matched, with each landing blows that would have killed a lesser man. Their blows seemed to shear away the environment around them. There in that cliff pass the fate of Halaea and perhaps even Urzoa and beyond was decided.
+
+> But in the end, it was Thalysios who emerged victorious. With a powerful thrust of the Spear of Varaxis, he pierced the Corruptor's heart and sent him tumbling to the ground. The beast that the Corruptor had summoned disappeared back into the underworld, and the Corruptor's armies were left leaderless and in disarray.
+
+> The Battle of Eternal Fires marked the end of the Corruptor's reign of terror, and it also cemented the legend of Archon Thalysios and the Spear of Varaxis. For centuries after the battle, the spear was kept in the city's temple, where it was revered as a symbol of the god's power and the courage of those who fought to protect their home. For the past 200 hundred years though the Spear has been lost. It is said that is was stolen and hidden, waiting to be found again.
+
+(Lu) The Age of the Corruptor
+
+> It told the tale of a man, a soldier who fought during the calamity, a soldier that died during the final battle of the calamity. It spoke of how this soldier, whose name has been long lost to time, made a deal with the God of death, Siarus. This soldier would be allowed to live if he acted as a guide and delivered deserving souls to the underworld. The scroll continues, talking about the many souls this champion of Siarus helped and sent to the underworld. It spoke of how the champion lost his family to old age, how he begged Siarus to let them live as well, and that when Siarus refused how the soldier grew cold. The souls slowed, the undead became more rampant, and the soldier disappeared altogether. 
+
+> With the soldier gone a new threat arose, the corrupter and his horde of undead, his army of chained. The scroll gives details of the Corruptor and how he was not just a conqueror, however. He was also a charismatic and persuasive leader, who used his powers of persuasion to sway others to his cause. He promised his followers a world where death was no longer an inevitability, where they could live forever as powerful beings. He also promised them revenge against the Tyrant Gods who had cast them aside and treated them as playthings.
+
+> The corruptor was not content to simply conquer and rule over the mortal realms, however. He also sought to spread his influence to other realms beyond the mortal plane. He believed that the gods themselves were flawed and that he could do a better job of running the universe. He saw himself as a kind of deity, above the mortal races and even the gods themselves.
+
+> This was the Corruptor's biggest mistake. Despite his great power, the Corruptor was eventually defeated. His armies were scattered, and the pieces of the Chain of Yurdor were split and scattered across the land, ensuring that he could never rise again.

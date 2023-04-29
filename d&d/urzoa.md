@@ -90,6 +90,7 @@ _"You shall be the final one to die." The voice this time is warped, sounding li
 * The Battle of Eternal Fires... and what happened after it?
   * Eg. Specifics on how The Corruptor was killed? What happened to the Corruptor's remains? What happened to the Spear of Varaxis?
   * Also... what role did Siarus play in this battle? Did he help either side?
+  * What happened to Thalysios?
 * The Chained Ones
   * Andropeclis (and maybe the orc, Krykon)
   * Could they be the mercanaries who specialized in fighting the undead and were wiped out when betrayed by their leader... ? Who was that leader?
